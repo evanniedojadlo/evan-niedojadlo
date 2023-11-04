@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Evan Niedojadlo</h1>
 <h4 align="center">I'm an Engineer that is currently focused on Infrastructure and Operations with some Security sprinkled on top. I'm excited to be here and help others learn.</h4>
 
-- 🔭&nbsp;I’m currently working at Peddle and on various projects within NimbusLoft
+- 🔭&nbsp;I’m currently working at Peddle and on various projects within Cirrus Loft.
 
 - 📸&nbsp;I make technology content for [YouTube](https://www.youtube.com/randomthoughtstech)
 
@@ -17,6 +17,7 @@
 - [Thoughts on being an SRE](https://www.squadcast.com/blog/evan-niedojadlo-from-peddle-shares-his-thoughts-on-being-an-sre)
 - [Building a Software Quality Process from the Ground up](https://www.youtube.com/watch?v=rTMjEtaBdtI)
 - [Building an SRE Process from the Ground Up](https://www.youtube.com/watch?v=cArIu15G5Xg)
+- [How To Bootstrap Information Security In Your Organization](https://www.youtube.com/watch?v=hX4AqRK5jq8)
 - Plenty of my other talks are available across the web 
 
 
